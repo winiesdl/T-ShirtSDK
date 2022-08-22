@@ -9,6 +9,7 @@ import { Appearance } from '@microsoft/mixed-reality-extension-sdk';
 /**
  * The main class of this app. All the logic goes here.
  */
+/* eslint-disable no-unused-vars */
 export default class HelloWorld {
 	private text: MRE.Actor = null;
 	private cube: MRE.Actor = null;

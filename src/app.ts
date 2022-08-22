@@ -40,6 +40,7 @@ export default class HelloWorld {
 					color: { r: 30 / 255, g: 206 / 255, b: 213 / 255 },
 					height: 0.3
 				},
+				/* eslint-disable no-unused-vars */
 				appearance: {
                     enabled: false
                 }
@@ -77,6 +78,7 @@ export default class HelloWorld {
                         scale: { x: 3, y: 3, z: 3 } // not affected by custom scale
                     }
                 },
+				/* eslint-disable no-unused-vars */
                 appearance: {
                     enabled: false
                 }
